@@ -63,16 +63,3 @@ exit(app.exec_())
 #         elif "by" or "bye" in cmd:
 #             speak("Have a good day")
 #             sys.exit()
-
-
-
-
-
-
-
-
-
-
-
-
-
